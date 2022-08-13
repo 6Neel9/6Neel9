@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 👨‍💻 All of my projects are available at [6neel9.github.io/portfolio](6neel9.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [6neel9.github.io/portfolio](https://6neel9.github.io/portfolio)
 
 - 💬 Ask me about **MERN**
 
